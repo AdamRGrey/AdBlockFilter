@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Version: 20210204032122
+! Version: 20210204032240
 ! Title: anti-greeter
-! Last modified: 20210204032122
+! Last modified: 20210204032240
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 !
 ! You know how the web is great because you don't have the equivalent of a wallmart greeter pouncing on you when you walk in the door?
 
-intercom.io
-helpscout.net
-driftt.com
+http://intercom.io
+http://helpscout.net
+http://driftt.com
