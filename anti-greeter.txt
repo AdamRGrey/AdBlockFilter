@@ -10,3 +10,4 @@
 ||intercom.io^
 ||helpscout.net^
 ||driftt.com^
+||crisp.chat^
