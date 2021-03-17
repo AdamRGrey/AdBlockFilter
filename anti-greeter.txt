@@ -11,3 +11,4 @@
 ||helpscout.net^
 ||driftt.com^
 ||crisp.chat^
+||code.jivosite.com^
