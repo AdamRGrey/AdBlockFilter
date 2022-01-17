@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20210204032240
+! Version: 20220117113840
 ! Title: anti-greeter
-! Last modified: 20210204032240
+! Last modified: 20220117113840
 ! Expires: 4 days (update frequency)
 ! Homepage: 
 !
