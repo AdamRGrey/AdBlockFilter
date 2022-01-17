@@ -12,3 +12,4 @@
 ||driftt.com^
 ||crisp.chat^
 ||code.jivosite.com^
+||app.qualified.com^
